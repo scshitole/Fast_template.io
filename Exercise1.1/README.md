@@ -14,12 +14,14 @@ The following components have been included in your lab environment:
 
 
 - RDP into Windows Jump box using ```external_user:admin.F5demo.com```
+- When you RDP it will download a File on your labtop
+- Open the file to login use username = ```external_user```
 
 ![RDP into Windows Machine](../docs/rdp.png)
 
 - open the Google Chrome browser in the Windows jump box 
 - Login to bigipB using ``` https://10.1.1.6```
-- Login to bigipA using ```https://10.1.1.15```
+- Login to bigipA using ```https://10.1.1.5```
 
 - If you see the BIG-IPs are not sync, then go to Device Overview 
 - Do Manual Sync as shown below
