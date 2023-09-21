@@ -5,7 +5,7 @@
 
 - Make sure to Sync BIG-IP devices
 
-![Do Manual Sync](../docs/sync1.png)
+![Do Manual Sync](../docs/sync2.png)
 
 - Navigate to Application Services --> ApplicationLX 
 - Then Select F5 Application Service Templates
@@ -34,5 +34,5 @@
 - Make sure you Sync the BIG-IP again navigating to Device Management
 and Overview and click on Sync
 
-![Do Manual Sync](../docs/sync1.png)
+![Do Manual Sync](../docs/sync2.png)
 [GoBack](../README.md)
