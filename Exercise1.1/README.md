@@ -16,6 +16,7 @@ The following components have been included in your lab environment:
 - RDP into Windows Jump box using ```external_user:admin.F5demo.com```
 
 ![RDP into Windows Machine](../docs/rdp.png)
+<img src="../docs/rdp.png" alt="Description of your image" width="300" height="200">
 
 - Now login into the BIG-IP using Access --> Web Shell on bigipA & bigipB
 - Login to bigipA using ```admin:admin.F5demo.com and/or root:default```
