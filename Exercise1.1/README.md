@@ -27,3 +27,8 @@ The following components have been included in your lab environment:
 - Do Manual Sync as shown below
 
 ![Do Manual Sync](../docs/sync.png)
+
+
+[GoTo Next Exercise1.2](../Exercise1.2/README.md)
+
+[GoBack](../README.md)
