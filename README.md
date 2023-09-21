@@ -9,6 +9,7 @@ If you have any questions or issues, [Click here to open an issue](https://githu
 To get the most out of this training, the student should already have some basic knowledge about the use of FAST Templates on BIG-IP.
 
 **Lab Environment**
+
 The Lab has 2 BIG-IP in HA mode with all the templates installed already, you can try out deploying the pplications objects using the templates.
 We will use Unified Demo Framework (UDF) to run through the exercises in this workshop. 
 
