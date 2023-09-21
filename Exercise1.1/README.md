@@ -7,10 +7,13 @@ The following components have been included in your lab environment:
 - Ubuntu LAMP Server
 
 
-![RDP into Windows Machine](docs/rdp.png)
+![RDP into Windows Machine](../docs/rdp.png)
 
 - Now login into the BIG-IP using Access --> Web Shell on bigipA & bigipB
 
-![Demo Arch](docs/accessbigip.png)
+![Login into bigipA & bigipB](../docs/accessbigip.png)
 
-![Demo Arch](docs/sync.png)
+- If you see the BIG-IPs are not sync, then go to Device Overview 
+- Do Manual Sync as shown below
+
+![Do Manual Sync](../docs/sync.png)
