@@ -37,4 +37,6 @@ and Overview and click on Sync
 
 ![Do Manual Sync](../docs/sync2.png)
 
+[GoTo Next Exercise1.3](../Exercise1.3/README.md)
+
 [GoBack](../README.md)
