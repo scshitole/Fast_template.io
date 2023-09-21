@@ -16,6 +16,7 @@ The following components have been included in your lab environment:
 - RDP into Windows Jump box using ```external_user:admin.F5demo.com```
 - When you RDP it will download a File on your labtop
 - Open the file to login use username = ```external_user```
+- To access Lab Guide use the Tab ```Welcome to Epic FAST```
 
 ![RDP into Windows Machine](../docs/rdp.png)
 
