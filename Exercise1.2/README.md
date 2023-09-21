@@ -29,10 +29,10 @@
 - You should the Virtual Server deployed
 
 ![Do Manual Sync](../docs/vs.png)
-- RDP into Windows Jump box using ```external_user:admin.F5demo.com```
 
 - Make sure you Sync the BIG-IP again navigating to Device Management
 and Overview and click on Sync
 
 ![Do Manual Sync](../docs/sync2.png)
+
 [GoBack](../README.md)
