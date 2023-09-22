@@ -20,7 +20,7 @@
 
 - Click on the template and Hit Deploy
 
-![Do Manual Sync](../docs/Deploy4.png)
+![Do Manual Sync](../docs/deploy4.png)
 
 - You should see sucess in the History as shown below
 ![Do Manual Sync](../docs/sucess4.png)
