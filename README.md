@@ -23,3 +23,5 @@ The following topics will be covered
 - [Exercise 1.3 - Deploy the InterConnect applications Objects](Exercise1.3)   
 - [Exercise 1.4 - Deploy the MyChart applications Objects](Exercise1.4)   
 
+- [Exercise 1.5 - Deploy the WAF Policy on InterConnect](Exercise1.5)   
+
