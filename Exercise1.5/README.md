@@ -26,7 +26,7 @@
 - You should see sucess in the History as shown below
 ![Do Manual Sync](../docs/sucess2.png)
 
-- Select EpicHyperspace partition
+- Select EpiciInterConnect partition
 ![Do Manual Sync](../docs/partition2.png)
 
 - You should the see the Virtual Server deployed
