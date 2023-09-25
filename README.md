@@ -10,8 +10,7 @@ To get the most out of this training, the student should already have some basic
 
 **Lab Environment**
 
-The Lab has 2 BIG-IP in HA mode with all the templates installed already, you can try out deploying the applications objects using the templates.
-We will use Unified Demo Framework (UDF) to run through the exercises in this workshop. 
+The Lab has 2 BIG-IP in HA mode with all the templates installed already, you can try out deploying the applications objects using the templates. We will use Unified Demo Framework (UDF) to run through the exercises in this workshop. 
 
 ## Architecture
 ![Demo Arch](docs/image1641.png)
@@ -20,5 +19,6 @@ The following topics will be covered
 ### Getting Started
 - [Exercise 1.1 - Explore UDF environment](Exercise1.1)   
 - [Exercise 1.2 - Deploy the HyperspaceWeb Application Objects](Exercise1.2) 
-- [Exercise 1.3 - Deploy the InterConnect applications Objects](Exercise1.3)  - [Exercise 1.4 - Deploy the MyChart applications Objects](Exercise1.4)   
+- [Exercise 1.3 - Deploy the InterConnect applications Objects](Exercise1.3)   
+- [Exercise 1.4 - Deploy the MyChart applications Objects](Exercise1.4)   
 - [Exercise 1.5 - Deploy the WAF Policy on InterConnect](Exercise1.5)   
