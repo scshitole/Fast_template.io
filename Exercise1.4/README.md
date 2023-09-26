@@ -40,4 +40,6 @@ and Overview and click on Sync
 ![Do Manual Sync](../docs/sync2.png)
 
 
+[GoTo Next Exercise1.5](../Exercise1.5/README.md)
+
 [GoBack](../README.md)
